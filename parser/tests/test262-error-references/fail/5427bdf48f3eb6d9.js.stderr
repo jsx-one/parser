@@ -1,0 +1,6 @@
+error: Unterminated string constant
+ --> $DIR/tests/test262-parser/fail/5427bdf48f3eb6d9.js:1:10
+  |
+1 | ('\u{2028')
+  |          ^^
+
