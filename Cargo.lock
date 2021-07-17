@@ -1125,6 +1125,7 @@ dependencies = [
 name = "swc_ecmascript"
 version = "0.46.0"
 dependencies = [
+ "swc_common",
  "swc_ecma_ast",
  "swc_ecma_codegen",
  "swc_ecma_dep_graph",
