@@ -11,3 +11,4 @@ pub use swc_ecma_transforms as transforms;
 pub use swc_ecma_utils as utils;
 #[cfg(feature = "visit")]
 pub use swc_ecma_visit as visit;
+pub use swc_common;
