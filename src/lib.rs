@@ -1,4 +1,4 @@
-pub use swc_common;
+pub use swc_common as common;
 pub use swc_ecma_ast as ast;
 #[cfg(feature = "codegen")]
 pub use swc_ecma_codegen as codegen;
