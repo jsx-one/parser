@@ -16,4 +16,4 @@ pmutil = "0.5.1"
 proc-macro2 = "1"
 quote = "1"
 swc_macros_common = {version = "0.3.2", path = "../../macros/common"}
-syn = {version = "1.0.74", features = ["fold", "parsing", "full"]}
+syn = {version = "1.0.65", features = ["fold", "parsing", "full"]}
